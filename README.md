@@ -1,1 +1,3 @@
 # bed-n-breakfast-cloud-aws-gcp
+
+Bed and Breakfast is a full-stack web application with a serverless backend. The serverless backend is built on a multi-cloud deployment model, conceptually known as cloud plumbing model. Based on this model, the application backend is a set of microservices deployed on AWS (Amazon Web Services) and GCP (Google Cloud Platform). The application frontend is built using React.js, enhancing usability and responsiveness. It has functionalities like room booking, food ordering, review feature, chatbot, chat communication and application usage analytics for the admins.
